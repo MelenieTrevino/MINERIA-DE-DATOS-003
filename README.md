@@ -11,4 +11,4 @@
 [Ejercicios basicos de python](https://github.com/MelenieTrevino/MINERIA-DE-DATOS-003/blob/main/Ej_Python_1806559.ipynb)
 
 
-[Practica de limpieza de datos](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/LimpiezaDatos%20(1).ipynb)
+[Limpieza de Datos](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Ej_Limpieza_04.ipynb)
