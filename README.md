@@ -12,3 +12,6 @@
 
 
 [Limpieza de Datos](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Ej_Limpieza_04.ipynb)
+
+
+[Avance 1 del PIA](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Avance1_PIA_04%20.ipynb)
