@@ -30,4 +30,4 @@
 - [Práctica de Visualización Principal](https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Visualizaci%C3%B3n_04_Principal.ipynb)
 - [Práctica de Visualización Secundaria](https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Vializaci%C3%B3n_04_Secundaria.ipynb)
 
-[Mapa Mental II](https://github.com/MelenieTrevino/MINERIA-DE-DATOS-003/blob/main/Mapa%20Mental%20II-Mineria%20de%20Datos.pdf)
+[Mapa Mental II](https://github.com/MelenieTrevino/MINERIA-DE-DATOS-003/blob/main/MapaMental_2_1806559.pdf)
