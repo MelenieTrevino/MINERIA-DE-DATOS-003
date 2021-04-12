@@ -24,7 +24,8 @@
 
 - [Calificacion de Regresion Bayesiana Equipo 4](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Calificaci%C3%B3n_Regresi%C3%B3n%20Bayesiana%20_Equipo04.pdf)
 
-[Segundo Avance del PIA]
+[Segundo Avance del PIA](https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/AvancePIA_II_003_04.ipynb)
 
-- [Parte 1](https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/AvancePIA_II_003_04.ipynb)
-- [Parte 2](https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/AvancePIA_II_003_04.ipynb)
+[Visualizacion]()
+- [Práctica de Visualización Principal](https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Visualizaci%C3%B3n_04_Principal.ipynb)
+- [Práctica de Visualización Secundaria](https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Vializaci%C3%B3n_04_Secundaria.ipynb)
