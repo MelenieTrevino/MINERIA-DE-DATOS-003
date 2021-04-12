@@ -26,7 +26,7 @@
 
 [Segundo Avance del PIA](https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/AvancePIA_II_003_04.ipynb)
 
-[Visualizacion]()
+### Visualizacion
 - [Práctica de Visualización Principal](https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Visualizaci%C3%B3n_04_Principal.ipynb)
 - [Práctica de Visualización Secundaria](https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Vializaci%C3%B3n_04_Secundaria.ipynb)
 
