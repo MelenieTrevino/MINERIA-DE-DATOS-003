@@ -27,10 +27,12 @@
 [Segundo Avance del PIA](https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/AvancePIA_II_003_04.ipynb)
 - [Segundo Avance del PIA CORRECCIÓN](https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/AvancePIA_II_003_04CORRECCI%C3%93N.ipynb)
 - [Visualización del PIA en Plotly](https://chart-studio.plotly.com/~verormz/0)
-- [POSTER HOMICIDIOS EUA 1980-2014](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Poster-Homicidios%20EUA(1980-2014).pdf)
 
 #### Visualizacion
 - [Práctica de Visualización Principal](https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Visualizaci%C3%B3n_04_Principal.ipynb)
 - [Práctica de Visualización Secundaria](https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Vializaci%C3%B3n_04_Secundaria.ipynb)
 
 [Mapa Mental II](https://github.com/MelenieTrevino/MINERIA-DE-DATOS-003/blob/main/MapaMental_2_1806559.pdf)
+## Fase 3
+
+- [POSTER HOMICIDIOS EUA 1980-2014](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Poster-Homicidios%20EUA(1980-2014).pdf)
